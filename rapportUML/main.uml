@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>main</OriginalElement>
+  <nodes>
+    <node x="377.0" y="551.0">main.CelluleVivante</node>
+    <node x="321.0" y="256.0">main.JeuInfinie</node>
+    <node x="0.0" y="551.0">main.ListeSimplementChainee</node>
+    <node x="642.0" y="311.5">main.JeuCirculaire</node>
+    <node x="388.0" y="780.0">main.Maillon</node>
+    <node x="633.0" y="557.0">main.EcrireDansFichier</node>
+    <node x="321.0" y="0.0">main.Jeu</node>
+    <node x="0.0" y="212.0">main.JeuBord</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="main.JeuBord" target="main.Jeu">
+      <point x="0.0" y="-147.0" />
+      <point x="150.5" y="187.0" />
+      <point x="371.1666666666667" y="187.0" />
+      <point x="-100.33333333333331" y="81.0" />
+    </edge>
+    <edge source="main.JeuInfinie" target="main.Jeu">
+      <point x="0.0" y="-103.0" />
+      <point x="0.0" y="81.0" />
+    </edge>
+    <edge source="main.JeuCirculaire" target="main.Jeu">
+      <point x="0.0" y="-47.5" />
+      <point x="792.5" y="187.0" />
+      <point x="571.8333333333333" y="187.0" />
+      <point x="100.33333333333326" y="81.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="751.0" y="647.0" />
+  <SelectedNodes>
+    <node>main.EcrireDansFichier</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

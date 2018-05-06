@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JeuDeLaVie:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JeuDeLaVie_jar</output-path>
+    <root id="archive" name="JeuDeLaVie.jar">
+      <element id="module-output" name="JeuDeLaVie" />
+    </root>
+  </artifact>
+</component>
